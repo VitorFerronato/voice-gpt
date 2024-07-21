@@ -1,29 +1,22 @@
-# vite-project
+# VOICE GPT
 
-This template should help get you started developing with Vue 3 in Vite.
+<div style="display:flex">
+<img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
+<img align="center" alt="vuejs" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> 
+<img align="center" alt="vuejs" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
+</div>
 
-## Recommended IDE Setup
+## 💻 The project 
+  Voice GTP is an application that allows users to ask questions and get answers through voice using artificial intelligence. This project combines modern technologies to offer an interactive and efficient experience
+  
+![image](https://github.com/user-attachments/assets/5d6f9902-a0bd-463f-b125-188ef270eebb)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🚀 Technologies
+* Vue
+* Aws
+* Open AI
+* Express
+* Composition API
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+<p> 👷 We are working on new features! </p> 
